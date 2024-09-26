@@ -9,7 +9,7 @@
     "type": "git",
     "url": "https://github.com/jano-kucera/eslint-config-angular.git"
   },
-  "peerDependencies": {
+  "dependencies": {
     "@typescript-eslint/eslint-plugin": "8.5.0",
     "@typescript-eslint/parser": "8.5.0",
     "eslint": "8.57.0",
