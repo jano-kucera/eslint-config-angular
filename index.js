@@ -357,6 +357,7 @@ module.exports =
           "@angular-eslint/template/no-distracting-elements": "warn",
           "@angular-eslint/template/no-negated-async": "warn",
           "@angular-eslint/template/no-positive-tabindex": "warn",
+          "@angular-eslint/template/prefer-self-closing-tags": "warn",
           "@angular-eslint/template/prefer-control-flow": "warn",
           "@angular-eslint/template/role-has-required-aria": "warn",
           "@angular-eslint/template/table-scope": "warn",
