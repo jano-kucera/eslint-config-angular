@@ -1,6 +1,6 @@
 {
-  "author": "",
-  "description": "",
+  "author": "jano-kucera",
+  "description": "Eslint config for Angular applications",
   "license": "ISC",
   "main": "index.js",
   "name": "eslint-config-angular",
