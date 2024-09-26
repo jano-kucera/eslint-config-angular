@@ -1,11 +1,5 @@
 module.exports = 
   {
-    languageOptions: {
-      globals: {
-        MyGlobal: true,
-      },
-    },
-
     overrides: [
       {
         extends: [
