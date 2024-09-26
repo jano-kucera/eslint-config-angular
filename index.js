@@ -1,4 +1,4 @@
-export default [
+module.exports = 
   {
     languageOptions: {
       globals: {
@@ -385,5 +385,4 @@ export default [
     rules: {
       "linebreak-style": ["warn", "windows"],
     },
-  },
-];
+  };
