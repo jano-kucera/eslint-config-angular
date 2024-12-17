@@ -61,7 +61,6 @@ module.exports =
           "@angular-eslint/no-duplicates-in-metadata-arrays": "warn",
           "@angular-eslint/no-empty-lifecycle-method": "off",
           "@angular-eslint/pipe-prefix": ["warn", { prefixes: ["app"] }],
-          "@angular-eslint/prefer-standalone-component": "warn",
           "@angular-eslint/relative-url-prefix": "warn",
           "@angular-eslint/use-pipe-transform-interface": "warn",
           "@typescript-eslint/consistent-type-assertions": [
