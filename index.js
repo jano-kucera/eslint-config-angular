@@ -190,7 +190,7 @@ module.exports = {
           },
         ],
         "lines-between-class-members": ["warn", "always"],
-        "no-console": "warn",
+        "no-console": ["warn", { allow: ["warn", "error"] }],
         "no-invalid-this": ["error", {}],
         "no-null/no-null": "warn",
         "no-restricted-syntax": [
